@@ -6,11 +6,11 @@
   "author": "Nicolas Crespo",
   "theme": {
     "colors": {
-      "frame": [10, 10, 10],
-      "frame_inactive": [10, 10, 10],
+      "frame": [15, 15, 15],
+      "frame_inactive": [15, 15, 15],
       "frame_incognito": [32, 33, 36],
       "frame_incognito_inactive": [60, 64, 67],
-      "background_tab": [14, 14, 14],
+      "background_tab": [15, 15, 15],
       "background_tab_inactive": [14, 14, 14],
       "background_tab_incognito": [32, 33, 36],
       "background_tab_incognito_inactive": [60, 64, 67],
@@ -24,8 +24,7 @@
       "toolbar_button_icon": [198, 198, 198],
       "omnibox_text": [255, 255, 255],
       "omnibox_background": [32, 33, 36],
-      "ntp_background": [10, 10, 10]
+      "ntp_background": [15, 15, 15]
     }
   }
 }
-
